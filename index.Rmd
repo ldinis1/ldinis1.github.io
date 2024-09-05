@@ -1,0 +1,67 @@
+---
+title: <span style="color:coral;">Luciana Ribeiro Dinis</span>
+image: "Luciana.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/luciana-ribeiro-dinis-78400b164/"
+  - label: GitHub
+    url: "https://github.com/ldinis1"
+  - label: Email
+    url: "mailto:ldinis1@jhmi.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hello! I am a PhD student at the Johns Hopkins School of Public Health in the department of Molecular Microbiology and Immunology. I work on Malaria research in the Prigge lab and our work focuses on understanding different biochemical pathways of the parasite. Our ultimate goal is to understand these pathways and identify possible therapeutic targets for malaria drugs. 
+
+Besides my research, I am very much interested in teaching and mentoring. I am also a very big advocate for mental health in academia. Outside of work, you will find me reading, doing yoga or getting crafty.
+
+## Education 🎓
+
+**Johns Hopkins University** | Baltimore, MD, USA
+
+PhD in Molecular Microbiology and Immunology | August 2022 - Ongoing
+
+**Johns Hopkins University** | Baltimore, MD, USA
+
+ScM in Molecular Microbiology and Immunology | August 2020 - May 2022
+
+**Maastricht Univeristy** | Maastricht, The Netherlands
+
+BSc in Biomedical Sciences Science | September 2016 - July 2019
+
+## Awards 🏆
+
+**Fulbright Scholarship** | 2020-2022
+
+
+## Research Experience 👩‍🔬
+
+**Instituto de Medicina Molecular (iMM)** | Lisbon, Portugal | Research intern | 3 months, 2020
+
+**Centro de Investigação em Saúde de Manhiça (CISM)** | Manhiça, Mozambique | Research intern | 3 months, 2020
+
+**University Eduardo Mondlane (UEM)** | Maputo, Mozambique | Research intern | 3 months, 2019
+
+**University of Costa Rica** | San José, Costa Rica | Research intern | 3 months, 2019
+
+**Medical University of Innsbruck** | Innsbruck, Austria | Research intern | 1 months, 2019
+
+**International Centre for Reproductive Health (ICRH)** | Ghent, Belgium | Research intern | 1 months, 2017
+
+**Center of Biotechnology of UEM** | Maputo, Mozambique | Research intern | 1 months, 2016
+
+## Publications📚
+
+1. Sean Yanik, Hang Yu, Nattawat Chaiyawong, Opeoluwa Adewale-Fasoro, **Luciana Ribeiro Dinis**, Ravi Kumar Narayanasamy, Elizabeth C. Lee, Ariel Lubonja, Bowen Li, Stefan Jaeger, Prakash Srinivasan. “Application of machine learning in a rodent malaria model for rapid, accurate and consistent parasite counts”. AJTMH, June 2024. (Accepted). doi: <span style="color:blue;">10.1101/2024.06.05.597554</span>
+
+<style>
+body {
+    background-color: #f7eeec; /* Change to the color of your choice */
+}
+</style>
+
+
+
